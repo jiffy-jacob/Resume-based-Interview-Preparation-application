@@ -1,0 +1,256 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (Jiffy Jacob Resume)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 5113
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 47.76 781.0898 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 3 Tm /F2 23 Tf 26 TL 175.1163 0 Td (JIFFY JACOB) Tj T* -175.1163 0 Td ET
+Q
+Q
+q
+1 0 0 1 47.76 766.0898 cm
+q
+.141176 .356863 .478431 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL 164.0008 0 Td (AI / ML INTERN | DATA SCIENCE) Tj T* -164.0008 0 Td ET
+Q
+Q
+q
+1 0 0 1 47.76 743.0898 cm
+q
+.141176 .356863 .478431 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (PROFESSIONAL SUMMARY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 696.4898 cm
+q
+.12549 .164706 .2 rg
+BT 1 0 0 1 0 31.6 Tm /F1 11 Tf 14.2 TL (Data Scientist with hands-on experience in Python, data preprocessing, EDA, feature engineering,) Tj T* (machine learning, NLP, and model evaluation. Built predictive, recommendation, clustering, and) Tj T* (text-classification projects using real-world datasets.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 673.4898 cm
+q
+.141176 .356863 .478431 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (TECHNICAL SKILLS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 655.2898 cm
+q
+BT 1 0 0 1 0 3.2 Tm 14.2 TL /F2 11 Tf .12549 .164706 .2 rg (Programming:) Tj /F1 11 Tf ( Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 623.8898 cm
+q
+BT 1 0 0 1 0 17.4 Tm 14.2 TL /F2 11 Tf .12549 .164706 .2 rg (Data & ML:) Tj /F1 11 Tf ( Pandas, NumPy, Scikit-learn, EDA, Feature Engineering, Regression, Classification,) Tj T* (Clustering, Model Evaluation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 592.4898 cm
+q
+BT 1 0 0 1 0 17.4 Tm 14.2 TL /F2 11 Tf .12549 .164706 .2 rg (Deep Learning & NLP:) Tj /F1 11 Tf ( TensorFlow/Keras, Neural Networks, TF-IDF, NLP, Sentiment/Emotion) Tj T* (Classification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 575.2898 cm
+q
+BT 1 0 0 1 0 3.2 Tm 14.2 TL /F2 11 Tf .12549 .164706 .2 rg (Recommendation:) Tj /F1 11 Tf ( Collaborative Filtering, User-Based CF, Item-Based CF, Cosine Similarity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 558.0898 cm
+q
+BT 1 0 0 1 0 3.2 Tm 14.2 TL /F2 11 Tf .12549 .164706 .2 rg (Tools:) Tj /F1 11 Tf ( Matplotlib, Seaborn, Jupyter, Google Colab, Git, GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 535.0898 cm
+q
+.141176 .356863 .478431 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (MACHINE LEARNING PROJECTS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 517.6898 cm
+q
+BT 1 0 0 1 0 2.6 Tm 13.4 TL /F2 10.8 Tf .090196 .196078 .301961 rg (ML-Powered E-Commerce Sales Prediction & Customer Behavior Analytics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 487.2898 cm
+q
+.12549 .164706 .2 rg
+BT 1 0 0 1 10 17.4 Tm /F1 11 Tf 14.2 TL -7 0 Td (\177 Built sales prediction models on Olist e-commerce data using preprocessing, EDA, feature) Tj T* 7 0 Td (engineering, and five ML algorithms.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 471.0898 cm
+q
+BT 1 0 0 1 10 3.2 Tm -7 0 Td 14.2 TL /F1 11 Tf .12549 .164706 .2 rg (\177 Random Forest achieved R) Tj /F1 9 Tf 5.5 Ts (2) Tj /F1 11 Tf 0 Ts ( 0.823 and MAE 7,294; applied K-Means for customer segmentation.) Tj T* 7 0 Td ET
+Q
+Q
+q
+1 0 0 1 47.76 453.6898 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 2.6 Tm /F2 10.8 Tf 13.4 TL (Book Recommendation System - Collaborative Filtering) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 423.2898 cm
+q
+.12549 .164706 .2 rg
+BT 1 0 0 1 10 17.4 Tm /F1 11 Tf 14.2 TL -7 0 Td (\177 Developed personalized Top-10 recommendations from 74,907 ratings using user/item-based) Tj T* 7 0 Td (collaborative filtering and cosine similarity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 392.8898 cm
+q
+.12549 .164706 .2 rg
+BT 1 0 0 1 10 17.4 Tm /F1 11 Tf 14.2 TL -7 0 Td (\177 Evaluated with Hit Rate@10, Precision@10, Recall@10, and NDCG@10; User-Based CF achieved) Tj T* 7 0 Td (7.44% Hit Rate@10.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 375.4898 cm
+q
+BT 1 0 0 1 0 2.6 Tm 13.4 TL /F2 10.8 Tf .090196 .196078 .301961 rg (Emotion Classification using NLP & Machine Learning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 359.2898 cm
+q
+.12549 .164706 .2 rg
+BT 1 0 0 1 10 3.2 Tm /F1 11 Tf 14.2 TL -7 0 Td (\177 Classified text into anger, fear, and joy using TF-IDF with Multinomial Naive Bayes and Linear SVM.) Tj T* 7 0 Td ET
+Q
+Q
+q
+1 0 0 1 47.76 343.0898 cm
+q
+.12549 .164706 .2 rg
+BT 1 0 0 1 10 3.2 Tm /F1 11 Tf 14.2 TL -7 0 Td (\177 Linear SVM achieved 92.85% accuracy and 92.84% F1-score.) Tj T* 7 0 Td ET
+Q
+Q
+q
+1 0 0 1 47.76 320.0898 cm
+q
+.141176 .356863 .478431 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (CERTIFICATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 301.8898 cm
+q
+BT 1 0 0 1 0 3.2 Tm 14.2 TL /F2 11 Tf .12549 .164706 .2 rg (Data Science with Gen AI) Tj /F1 11 Tf ( - Entri Software Private Limited, Illinois Tech US, NSDC \(2026\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 256.2898 cm
+q
+.12549 .164706 .2 rg
+BT 1 0 0 1 0 31.6 Tm /F1 11 Tf 14.2 TL (Covered Python, data analysis, and machine learning fundamentals. Studied supervised and) Tj T* (unsupervised learning, deep learning, and NLP concepts through coursework and assignments.) Tj T* (Learned foundational Generative AI concepts as part of the course.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 233.2898 cm
+q
+.141176 .356863 .478431 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (EDUCATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 200.8898 cm
+q
+.12549 .164706 .2 rg
+BT 1 0 0 1 0 17.4 Tm /F1 11 Tf 14.2 TL (Master of Technology \(M.Tech\) in Signal Processing - Rajagiri School of Engineering and Technology,) Tj T* (Kakkanad, Kerala) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+6 0 obj
+<<
+/F1 7 0 R
+/F2 8 0 R
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000082 00000 n 
+0000000141 00000 n 
+0000000190 00000 n 
+0000000389 00000 n 
+0000005554 00000 n 
+0000005595 00000 n 
+0000005702 00000 n 
+trailer
+<<
+/Size 9
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+5814
+%%EOF
