@@ -4,7 +4,6 @@ A resume-based mock interview app that runs locally. Upload your resume, choose 
 
 **Live app:** *(https://mockinterviewapp-zxfauwpcjqcxerydbrfvbx.streamlit.app/)*
 
-
 ## Features
 
 - Questions based on your resume and chosen role, different every run
