@@ -14,7 +14,7 @@ A resume-based mock interview app. Upload your resume, choose a role and round (
 
 ## Tech Stack
 
-Streamlit · Llama 3.1 8B (Groq API) · Groq Whisper · Sentence Transformers (`all-MiniLM-L6-v2`) · FAISS · pypdf
+Streamlit · openai/gpt-oss-20b · Groq Whisper · Sentence Transformers (`all-MiniLM-L6-v2`) · FAISS · pypdf
 
 ## How retrieval works
 
