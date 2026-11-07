@@ -1,7 +1,0 @@
-streamlit>=1.41
-pypdf
-requests
-numpy
-sentence-transformers
-faiss-cpu
-faster-whisper
