@@ -2,7 +2,7 @@
 
 A resume-based mock interview app. Upload your resume, choose a role and round (Technical or HR), and answer by voice. Get feedback and an improved answer after each question, plus an overall score out of 5.
 
-**Live app:** *(add your Streamlit link here)*
+**Live app:** *(https://resume-based-interview-preparation-application-j59wvvzlu7dwmqu.streamlit.app/)*
 
 ## Features
 
