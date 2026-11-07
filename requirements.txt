@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit>=1.41
+pypdf
+requests
+numpy
+torch
+sentence-transformers
+faiss-cpu

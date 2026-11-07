@@ -1,12 +1,12 @@
 # 🎤 AI Interview Coach
 
-A resume-based mock interview app that runs locally. Upload your resume, choose a role and round (Technical or HR), and answer by voice. Get feedback and an improved answer after each question, plus an overall score out of 5.
+A resume-based mock interview app. Upload your resume, choose a role and round (Technical or HR), and answer by voice. Get feedback and an improved answer after each question, plus an overall score out of 5.
 
-**Live app:** *(https://mockinterviewapp-zxfauwpcjqcxerydbrfvbx.streamlit.app/)*
+**Live app:** *(add your Streamlit link here)*
 
 ## Features
 
-- Questions based on your resume and chosen role, different every run
+- Questions grounded in your resume through semantic search, different every run
 - Technical and HR rounds, unlimited questions until you press **Exit**
 - Voice answers with editable text
 - Feedback and improved answer after each question
@@ -14,32 +14,39 @@ A resume-based mock interview app that runs locally. Upload your resume, choose 
 
 ## Tech Stack
 
-Streamlit · Qwen 2.5 7B (Ollama) · MiniLM + FAISS · faster-whisper · pypdf
+Streamlit · Llama 3.1 8B (Groq API) · Groq Whisper · Sentence Transformers (`all-MiniLM-L6-v2`) · FAISS · pypdf
+
+## How retrieval works
+
+1. The resume PDF is cleaned (contact details removed) and split into section-aware chunks.
+2. Each chunk is embedded with MiniLM and stored in a FAISS index.
+3. Question generation and answer evaluation retrieve the most relevant resume chunks by semantic similarity and use them in the prompt.
 
 ## Setup
 
-Requires Python 3.10+ and [Ollama](https://ollama.com).
+Requires Python 3.10+ and a free [Groq API key](https://console.groq.com/keys).
 
 ```bash
 git clone <your-repo-url>
 cd <your-repo-folder>
-
-conda create -n interviewcoach python=3.11
-conda activate interviewcoach
 pip install -r requirements.txt
+```
 
-ollama pull qwen2.5:7b
+Create `.streamlit/secrets.toml`:
+
+```toml
+GROQ_API_KEY = "your_key_here"
+```
+
+Run:
+
+```bash
 streamlit run app.py
 ```
 
-Optional: add interview-prep PDFs to a `knowledge_base/` folder next to `app.py`.
+## Deploy
 
-## Usage
-
-1. Upload your resume (PDF) and select a role.
-2. Choose Technical or HR.
-3. Record your answer, edit the text if needed, and submit.
-4. Read the feedback and continue, or click **Exit** to see your score.
+Push the repo to GitHub, create an app on [Streamlit Community Cloud](https://share.streamlit.io) with `app.py` as the main file, and add `GROQ_API_KEY` under **Settings → Secrets**.
 
 ## Author
 
