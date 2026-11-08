@@ -46,7 +46,11 @@ streamlit run app.py
 
 ## Deploy
 
-Push the repo to GitHub, create an app on [Streamlit Community Cloud](https://share.streamlit.io) with `app.py` as the main file, and add `GROQ_API_KEY` under **Settings → Secrets**.
+Pushed the repo to GitHub, created an app on [Streamlit Community Cloud](https://share.streamlit.io) with `app.py` as the main file, and added `GROQ_API_KEY` under **Settings → Secrets**.
+
+## Conclusion on Model Evaluation
+
+The evaluation of the Personalized AI Interview Coach demonstrates that the system performs well in generating relevant interview feedback and assessing candidate answers. It achieved an overall model-quality rating of **4.00 out of 5**, with particularly good results in answer grounding (4.67), feedback relevance (4.67), and evaluation usefulness (4.33). However, context relevance scored 2.33, indicating that the retrieval component requires further improvement to consistently retrieve the most relevant information from the resume and knowledge base. Overall, the evaluation shows that the system provides a useful foundation for personalized interview preparation. Future improvements will focus on optimizing information retrieval and enhancing the consistency and accuracy of the evaluation process.
 
 ## Author
 
